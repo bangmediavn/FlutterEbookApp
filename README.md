@@ -48,13 +48,13 @@ To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df6
 
 ## 🔌 Plugins
 
-| Name                                                    | Usage                                               |
-| ------------------------------------------------------- | --------------------------------------------------- |
-| [**Provider**](https://pub.dev/packages/provider)       | State Management                                    |
-| [**Object DB**](https://pub.dev/packages/objectdb)      | NoSQL database to store Favorites & Downloads       |
-| [**XML2JSON**](https://pub.dev/packages/xml2json)       | Convert XML to JSON                                 |
-| [**DIO**](https://pub.dev/packages/dio)                 | Network calls and File Download                     |
-| [**Iridium Reader**](https://github.com/Mantano/iridium_reader_widget) | Plug and play reader widget for epubs |
+| Name                                                                   | Usage                                         |
+|------------------------------------------------------------------------|-----------------------------------------------|
+| [**Provider**](https://pub.dev/packages/provider)                      | State Management                              |
+| [**Object DB**](https://pub.dev/packages/objectdb)                     | NoSQL database to store Favorites & Downloads |
+| [**XML2JSON**](https://pub.dev/packages/xml2json)                      | Convert XML to JSON                           |
+| [**DIO**](https://pub.dev/packages/dio)                                | Network calls and File Download               |
+| [**Iridium Reader**](https://github.com/Mantano/iridium_reader_widget) | Plug and play reader widget for epubs         |
 
 ## 🤓 Author(s)
 
